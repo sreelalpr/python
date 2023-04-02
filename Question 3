@@ -1,0 +1,5 @@
+first_name = input ("enter first name : ")
+last_name = input ("enter last name : ")
+s = " "
+name = last_name + s + first_name
+print("reverse order name is ",name)
