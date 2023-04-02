@@ -1,0 +1,5 @@
+x = input ("enter the numbers separated with commas :")
+list = x.split (",")
+tuple = tuple(list)
+print("list : ",list)
+print("tuple :",tuple)
