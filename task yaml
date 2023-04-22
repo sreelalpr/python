@@ -1,0 +1,37 @@
+Name : "Thomas"
+Age  : 34
+Occupation : "software Developer"
+Address :
+  -street : "114 South Buchanan Boulevard"
+  -city   : "Durham"
+  -state  : "NC"
+  -zip    : "27708"
+  -phone  : "(919) 681-8472"
+  -fax    : "(919) 681-8492"
+Hobbies :
+  - Writing
+  - Reading
+  - Cycling
+Skills :
+  -programming: 
+    - Java
+    - python
+  -Database :
+    - MySql
+    - postgreSQL
+-Devops Tools:
+    -Configuration Management:
+      - Ansible
+      - puppet
+    -Git : null
+    -Virtualisation:
+      -Docker:
+        -K8S: "50% covered"
+        -Swarm: "90% covered"
+        -CoreOS: null
+IQ : "122.55"
+Hike eligible : True
+      
+
+
+
